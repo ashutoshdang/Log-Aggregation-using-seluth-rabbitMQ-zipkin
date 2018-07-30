@@ -1,5 +1,4 @@
-# Log-Aggregation-using-seluth-rabbitMQ-zipkin
-Log Aggregation using Spring cloud Sleuth as log message producer, RabbitMQ as message broker for asynchronous logging and Zipkin server as accepting log and visualizing tracing
+# Request Tracing-using-seluth-rabbitMQ-zipkin
 
 #Log Aggreation : why it is needed?
  While following microservices architecture for our application a request goes through various services to complete a request .
